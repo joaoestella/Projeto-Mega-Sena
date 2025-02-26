@@ -39646,5 +39646,19 @@
         ],
         "acumulou": true,
         "ganhadores": []
+    },
+    {
+        "concurso": 2833,
+        "data": "25/02/2025",
+        "dezenas": [
+            "01",
+            "03",
+            "13",
+            "16",
+            "36",
+            "56"
+        ],
+        "acumulou": false,
+        "ganhadores": []
     }
 ]

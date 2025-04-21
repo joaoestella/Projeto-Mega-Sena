@@ -1,0 +1,15 @@
+# Ignorar dependências de ambiente virtual
+venv/
+__pycache__/
+
+# Ignorar arquivos de compilação
+*.pyc
+*.pyo
+
+# Ignorar arquivos de log
+*.log
+
+# Ignorar configurações de IDE
+.vscode/
+.idea/
+*.swp

@@ -39660,5 +39660,299 @@
         ],
         "acumulou": false,
         "ganhadores": []
+    },
+    {
+        "concurso": 2834,
+        "data": "27/02/2025",
+        "dezenas": [
+            "05",
+            "08",
+            "11",
+            "15",
+            "39",
+            "47"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2835,
+        "data": "01/03/2025",
+        "dezenas": [
+            "09",
+            "24",
+            "27",
+            "36",
+            "43",
+            "54"
+        ],
+        "acumulou": false,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2836,
+        "data": "06/03/2025",
+        "dezenas": [
+            "01",
+            "06",
+            "10",
+            "30",
+            "42",
+            "50"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2837,
+        "data": "08/03/2025",
+        "dezenas": [
+            "03",
+            "14",
+            "34",
+            "35",
+            "42",
+            "50"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2838,
+        "data": "11/03/2025",
+        "dezenas": [
+            "04",
+            "07",
+            "29",
+            "32",
+            "36",
+            "53"
+        ],
+        "acumulou": false,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2839,
+        "data": "13/03/2025",
+        "dezenas": [
+            "27",
+            "30",
+            "37",
+            "40",
+            "46",
+            "47"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2840,
+        "data": "15/03/2025",
+        "dezenas": [
+            "01",
+            "33",
+            "39",
+            "49",
+            "57",
+            "60"
+        ],
+        "acumulou": false,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2841,
+        "data": "18/03/2025",
+        "dezenas": [
+            "04",
+            "05",
+            "12",
+            "34",
+            "36",
+            "48"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2842,
+        "data": "20/03/2025",
+        "dezenas": [
+            "04",
+            "08",
+            "49",
+            "51",
+            "52",
+            "55"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2843,
+        "data": "22/03/2025",
+        "dezenas": [
+            "01",
+            "37",
+            "39",
+            "40",
+            "43",
+            "59"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2844,
+        "data": "25/03/2025",
+        "dezenas": [
+            "07",
+            "20",
+            "31",
+            "54",
+            "55",
+            "58"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2845,
+        "data": "27/03/2025",
+        "dezenas": [
+            "10",
+            "31",
+            "40",
+            "52",
+            "54",
+            "56"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2846,
+        "data": "29/03/2025",
+        "dezenas": [
+            "01",
+            "12",
+            "16",
+            "17",
+            "25",
+            "57"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2847,
+        "data": "01/04/2025",
+        "dezenas": [
+            "03",
+            "05",
+            "22",
+            "35",
+            "53",
+            "56"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2848,
+        "data": "03/04/2025",
+        "dezenas": [
+            "05",
+            "14",
+            "19",
+            "29",
+            "30",
+            "54"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2849,
+        "data": "05/04/2025",
+        "dezenas": [
+            "13",
+            "19",
+            "25",
+            "29",
+            "31",
+            "43"
+        ],
+        "acumulou": false,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2850,
+        "data": "08/04/2025",
+        "dezenas": [
+            "01",
+            "02",
+            "15",
+            "26",
+            "43",
+            "50"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2851,
+        "data": "10/04/2025",
+        "dezenas": [
+            "05",
+            "06",
+            "17",
+            "37",
+            "43",
+            "54"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2852,
+        "data": "12/04/2025",
+        "dezenas": [
+            "06",
+            "22",
+            "24",
+            "49",
+            "53",
+            "56"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2853,
+        "data": "15/04/2025",
+        "dezenas": [
+            "04",
+            "18",
+            "23",
+            "48",
+            "53",
+            "56"
+        ],
+        "acumulou": true,
+        "ganhadores": []
+    },
+    {
+        "concurso": 2854,
+        "data": "19/04/2025",
+        "dezenas": [
+            "02",
+            "13",
+            "16",
+            "31",
+            "44",
+            "55"
+        ],
+        "acumulou": false,
+        "ganhadores": []
     }
 ]

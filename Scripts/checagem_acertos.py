@@ -1,5 +1,4 @@
 # Importa a função responsável por gerar uma aposta aleatória de 6 dezenas
-from gerador_de_jogos import simulacao_real_mega_sena
 import json
 
 # Função que verifica se os números gerados já saíram juntos em algum concurso da Mega-Sena
@@ -36,10 +35,3 @@ def verificar_se_numeros_ja_sairam(numeros_gerados):
     except json.JSONDecodeError:
         print("❌ Erro: Problema ao ler o arquivo JSON.")
 
-# Função que gera uma nova aposta e chama a verificação no histórico de concursos
-def gerar_e_verificar_jogo():
-    numeros_gerados = simulacao_real_mega_sena()
-    verificar_se_numeros_ja_sairam(numeros_gerados)
-
-# Executa a função principal ao rodar o script
-gerar_e_verificar_jogo()
